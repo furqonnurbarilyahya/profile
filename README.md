@@ -1,8 +1,6 @@
 ### Hi! 👋 I'm Furqon.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology!
-
-- 🔭 I’m currently Mobile Development Cohort at Bangkit Academy 2023 Batch 2
+Mobile Development Cohort at Bangkit Academy 2023 Batch 2
 - 🌱 I’m currently learning about Android Development
 
 ### Tech Stack
